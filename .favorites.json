@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\myfor\\sponsorship\\src\\database",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\myfor\\sponsorship\\src\\database",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "uJfit3EN09r165Kb"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\myfor\\sponsorship\\src\\modules",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\myfor\\sponsorship\\src\\modules",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "yDdQmjOr6kxGFNRn"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\myfor\\sponsorship\\src\\routes",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\myfor\\sponsorship\\src\\routes",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "6QCtxWdD7hpsTJjE"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\myfor\\sponsorship\\src\\websocket",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\myfor\\sponsorship\\src\\websocket",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "7OnRdDJTlb4AyF9S"
+    }
+]
